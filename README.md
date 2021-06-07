@@ -5,7 +5,7 @@
 - I have been learning more about Dart and Flutter :blue_heart:
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/vanilson-carvalho-43a7b4106/" target="_blank">
+<a href="https://www.linkedin.com/in/vanilsoncarvalhodev/" target="_blank">
 <img align="center" alt="vanilson-carvalho-linkedin" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <a href="https://www.youtube.com/channel/UCVValMWX9CjPx8o6Vi-vp5w" target="_blank">
