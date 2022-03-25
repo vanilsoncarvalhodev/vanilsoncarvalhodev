@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Vanilson Carvalho
 - I live in São Paulo - Brasil
-- I have been working on Precisão Sistemas as software developer :computer:
+- I have been working on Educa Mais Brasil as software developer :computer:
 - I have been learning more about Dart and Flutter :blue_heart:
 
 ## Connect with me:
